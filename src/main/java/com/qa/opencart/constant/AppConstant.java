@@ -10,6 +10,7 @@ public class AppConstant {
 	public static final String ACCOUNT_CURRENT_URL_BEFORE_VALUE= "account/login";
 	public static final String ACCOUNT_CURRENT_URL_AFTER_VALUE= "account/account";
 	public static final String USER_REGS_SUCESMSG = "Your Account Has Been Created";
+	public static final String DUMMY_UPDATE= "test";
 	
 	
 	public static final String REGISTER_SHEET_NAME="register";
